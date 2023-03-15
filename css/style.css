@@ -134,3 +134,12 @@ main section figure figcaption {
   margin-top: 0.5rem;
   font-size: 0.8rem;
 }
+  
+  #lit div {
+  font-size: 1.2rem;
+  line-height: 1.5;
+  padding: 1rem;
+  background-color: var(--color-light-blue);
+  border-radius: 0.5rem;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+  }
