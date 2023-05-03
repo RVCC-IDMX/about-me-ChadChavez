@@ -1,0 +1,61 @@
+/* Make scrolling smooth */
+html {
+    scroll-behavior: smooth;
+  }
+  
+  /* Get rid of padding & sizing on body so header is at top */
+  body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Add some padding back to rest of page */
+  main {
+    padding: 50px;
+  }
+  
+  /* Navbar */
+  nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #333;
+    color: #fff;
+  }
+  
+  /* Logo */
+  .logo {
+    font-size: 24px;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  
+  /* Navigation list */
+  .nav-list {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Style all a tags in header */
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 20px;
+  }
+  
+  /* Style a tags on hover */
+  nav a:hover {
+    color: #ccc;
+  }
+  
+  @media screen and (min-width: 768px) {
+    nav {
+      min-width: 500px;
+    }
+  }
+  
