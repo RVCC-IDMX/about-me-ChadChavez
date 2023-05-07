@@ -8,7 +8,7 @@
 
 ### Regarding the color scheme, I chose a blue and white color palette to reflect my preference for simplicity and minimalism (also i love blue)--. The RGB and Hex codes for the primary colors used in this project are as follows:
 
-### colors used in this page;
+### colors used in this page
 --color-dark-blue: #00293C;
 --color-blue: #247BA0;
 --color-light-blue: #A2D5F2;
