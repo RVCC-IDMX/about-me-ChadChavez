@@ -391,3 +391,35 @@ button[type="submit"] {
     font-size: 14px;
   }
 }
+
+#bio {
+  background-color: #A2D5F2;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+  figure img {
+    width: 100%;
+    height: auto;
+    transition: all 0.2s ease-in-out;
+  }
+
+  figure:hover img {
+    transform: scale(1.1);
+  }
+
+.social-media {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.social-media a {
+  color: #ffffff;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+.social-media a:hover {
+  text-decoration: underline;
+}
