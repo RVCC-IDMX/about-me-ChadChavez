@@ -15,6 +15,11 @@
 --color-off-white: #F0F3F4;
 --color-white: #FFFFFF;
 
+### For the personal blog section here are some sources that i used to help make the animation possible
+https://blog.hubspot.com/website/css-hover-animation
+https://youtu.be/_JvHvGGvps0
+https://www.joshwcomeau.com/animation/css-transitions/
+
 ### Lastly, I want to reserve copyrights for all the works presented in this project, including the code, multimedia elements, and personal written content.
 
 ### Thank you for visiting my website, and I hope you enjoy exploring it as much as I enjoyed developing it. If you have any questions or feedback, please don't hesitate to contact me using the form provided on the website.
